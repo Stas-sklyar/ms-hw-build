@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/ms-hw-build/static/css/main.f91feef6.chunk.css",
-    "main.js": "/ms-hw-build/static/js/main.df71b65c.chunk.js",
-    "main.js.map": "/ms-hw-build/static/js/main.df71b65c.chunk.js.map",
+    "main.css": "/ms-hw-build/static/css/main.b576e567.chunk.css",
+    "main.js": "/ms-hw-build/static/js/main.7084150e.chunk.js",
+    "main.js.map": "/ms-hw-build/static/js/main.7084150e.chunk.js.map",
     "runtime-main.js": "/ms-hw-build/static/js/runtime-main.090f1514.js",
     "runtime-main.js.map": "/ms-hw-build/static/js/runtime-main.090f1514.js.map",
     "static/js/2.750e5652.chunk.js": "/ms-hw-build/static/js/2.750e5652.chunk.js",
     "static/js/2.750e5652.chunk.js.map": "/ms-hw-build/static/js/2.750e5652.chunk.js.map",
     "index.html": "/ms-hw-build/index.html",
-    "static/css/main.f91feef6.chunk.css.map": "/ms-hw-build/static/css/main.f91feef6.chunk.css.map",
+    "static/css/main.b576e567.chunk.css.map": "/ms-hw-build/static/css/main.b576e567.chunk.css.map",
     "static/js/2.750e5652.chunk.js.LICENSE.txt": "/ms-hw-build/static/js/2.750e5652.chunk.js.LICENSE.txt",
     "static/media/burger-icon.8c609c8b.svg": "/ms-hw-build/static/media/burger-icon.8c609c8b.svg",
     "static/media/close-menu-icon.153c196f.svg": "/ms-hw-build/static/media/close-menu-icon.153c196f.svg",
     "static/media/delete-product-icon.4cd3339a.svg": "/ms-hw-build/static/media/delete-product-icon.4cd3339a.svg",
     "static/media/error404-icon.a7a9813e.svg": "/ms-hw-build/static/media/error404-icon.a7a9813e.svg",
+    "static/media/eye-off-icon.2d090da7.svg": "/ms-hw-build/static/media/eye-off-icon.2d090da7.svg",
+    "static/media/eye-on-icon.4917d9c8.svg": "/ms-hw-build/static/media/eye-on-icon.4917d9c8.svg",
     "static/media/minus-icon.68c95557.svg": "/ms-hw-build/static/media/minus-icon.68c95557.svg",
     "static/media/plus-icon.3aec22ca.svg": "/ms-hw-build/static/media/plus-icon.3aec22ca.svg",
     "static/media/reset-password-successful.2373597a.svg": "/ms-hw-build/static/media/reset-password-successful.2373597a.svg",
@@ -23,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.090f1514.js",
     "static/js/2.750e5652.chunk.js",
-    "static/css/main.f91feef6.chunk.css",
-    "static/js/main.df71b65c.chunk.js"
+    "static/css/main.b576e567.chunk.css",
+    "static/js/main.7084150e.chunk.js"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ms-hw-build/static/css/main.b576e567.chunk.css",
-    "main.js": "/ms-hw-build/static/js/main.7084150e.chunk.js",
-    "main.js.map": "/ms-hw-build/static/js/main.7084150e.chunk.js.map",
+    "main.css": "/ms-hw-build/static/css/main.b4137257.chunk.css",
+    "main.js": "/ms-hw-build/static/js/main.71c46318.chunk.js",
+    "main.js.map": "/ms-hw-build/static/js/main.71c46318.chunk.js.map",
     "runtime-main.js": "/ms-hw-build/static/js/runtime-main.090f1514.js",
     "runtime-main.js.map": "/ms-hw-build/static/js/runtime-main.090f1514.js.map",
     "static/js/2.750e5652.chunk.js": "/ms-hw-build/static/js/2.750e5652.chunk.js",
     "static/js/2.750e5652.chunk.js.map": "/ms-hw-build/static/js/2.750e5652.chunk.js.map",
     "index.html": "/ms-hw-build/index.html",
-    "static/css/main.b576e567.chunk.css.map": "/ms-hw-build/static/css/main.b576e567.chunk.css.map",
+    "static/css/main.b4137257.chunk.css.map": "/ms-hw-build/static/css/main.b4137257.chunk.css.map",
     "static/js/2.750e5652.chunk.js.LICENSE.txt": "/ms-hw-build/static/js/2.750e5652.chunk.js.LICENSE.txt",
     "static/media/burger-icon.8c609c8b.svg": "/ms-hw-build/static/media/burger-icon.8c609c8b.svg",
     "static/media/close-menu-icon.153c196f.svg": "/ms-hw-build/static/media/close-menu-icon.153c196f.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.090f1514.js",
     "static/js/2.750e5652.chunk.js",
-    "static/css/main.b576e567.chunk.css",
-    "static/js/main.7084150e.chunk.js"
+    "static/css/main.b4137257.chunk.css",
+    "static/js/main.71c46318.chunk.js"
   ]
 }
